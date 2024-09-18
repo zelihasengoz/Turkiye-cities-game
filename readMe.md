@@ -40,11 +40,11 @@ This Python project is an interactive game where users can guess and type cities
 
 ## Screenshots
 
-![Game Start Screenshot](./Images/gameplay.png)
+![Game Start Screenshot](./Images/Gameplay.jpg)
 
 *Screenshot of the blank map.*
 
-![Game in Progress](./Images/blankmap.png)
+![Game in Progress](./Images/blankmap.jpg)
 
 *Screenshot of the game in progress with cities being guessed.*
 
